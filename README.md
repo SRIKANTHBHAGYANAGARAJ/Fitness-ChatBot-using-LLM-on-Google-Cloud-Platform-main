@@ -39,20 +39,10 @@ The difference between Google or ChatGPT search and this application is that it 
 * **Progress Tracking:** Keep track of your fitness milestones and achievements 📊
 
 
-## References:
-
-1. [Vertex AI Agent Builder](https://cloud.google.com/products/agent-builder?hl=en)
-2. [Link1](https://youtu.be/HSJIrCiAmOc?si=qz2D-k1iSii9xK_A)
-3. [Link2](https://youtu.be/QcXOrBDwCL8?si=BperMyuwW4hvsGVu)
-
 
 ## 💬 Feedback & Support
 
-I'm always looking to improve! Share your thoughts and suggestions:
 
-- **Email:** mansi.more943@gmail.com
-- **GitHub:** [MansiMore99](https://github.com/MansiMore99)
-- **Linkedin:** [MansiMore](https://linkedin.com/in/mansi-more-0943)
 
 ## 📢 Contributing
 
